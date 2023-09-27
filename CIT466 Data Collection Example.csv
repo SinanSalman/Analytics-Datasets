@@ -1,25 +1,26 @@
-time,OS,social_media,pics,emails,phone_age,phone_use,wokeup,commute_to_zu
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",WhatsApp,1298,0,2.5,Light use,6:30,0:30:00
-2023/09/18 5:44:42 PM GMT+4,iOS (Apple),TikTok,2737,82,2.5,Moderate use,7:30,0:15:00
-2023/09/18 5:44:42 PM GMT+4,iOS (Apple),WhatsApp,1302,53,1,Heavy use,6:45,0:15:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",Pinterest,1232,35,1.8,Light use,6:30,0:30:00
-2023/09/18 5:44:42 PM GMT+4,iOS (Apple),TikTok,4377,91,3,Heavy use,7:00,0:10:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",WhatsApp,2960,76,2,Moderate use,7:30,0:40:00
-2023/09/18 5:44:42 PM GMT+4,iOS (Apple),WhatsApp,2336,58,2.3,Light use,6:30,0:30:00
-2023/09/18 5:44:42 PM GMT+4,iOS (Apple),Instagram,2321,76,1.1,Heavy use,7:30,0:40:00
-2023/09/18 5:44:42 PM GMT+4,iOS (Apple),TikTok,210,30,1.3,Moderate use,6:30,0:10:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",Pinterest,1318,6,2.8,Moderate use,7:00,0:15:00
-2023/09/18 5:44:42 PM GMT+4,iOS (Apple),Instagram,349,40,0.6,Light use,6:45,0:40:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",TikTok,4466,6,2.3,Heavy use,8:00,0:40:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",WhatsApp,2059,3,3.6,Heavy use,6:30,0:30:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",Pinterest,1415,99,2.8,Moderate use,6:45,0:20:00
-2023/09/18 5:44:42 PM GMT+4,iOS (Apple),WhatsApp,4140,71,0.2,Light use,9:00,0:15:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",Instagram,4112,11,0.5,Heavy use,6:30,0:15:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",TikTok,1153,59,2.4,Heavy use,8:00,0:40:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",Pinterest,3423,5,0.7,Moderate use,7:00,0:30:00
-2023/09/18 5:44:42 PM GMT+4,iOS (Apple),WhatsApp,1414,42,1.7,Moderate use,6:30,0:10:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",TikTok,302,54,1.2,Light use,8:30,0:15:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",Instagram,919,72,0.4,Heavy use,6:45,0:30:00
-2023/09/18 5:44:42 PM GMT+4,iOS (Apple),WhatsApp,2554,58,2.1,Moderate use,8:30,0:20:00
-2023/09/18 5:44:42 PM GMT+4,"Android (Samsung, LG, Huawei, etc.)",TikTok,1927,23,2.3,Heavy use,9:00,0:10:00
-2023/09/18 5:44:42 PM GMT+4,iOS (Apple),Instagram,610,46,1,Light use,6:30,0:30:00
+"Timestamp","Which Operating System (OS) does your smartphone use?","What's your favorite social media app? select the one you most frequently use","How many pictures do you have on your smartphone?","How many unread emails do you have in your inbox?","How old is your phone? (in years, e.g., 2.5 years)","How do you categorize your smartphone use?","When did you wakeup this morning?","How long did it take you to get to ZU this morning?"
+"2023/09/18 5:44:42 PM GMT+4","Android (Samsung, LG, Huawei, etc.)","WhatsApp","1298","0","2.5","Light use","06:30","00:30:00"
+"2023/09/27 11:06:37 AM GMT+4","iOS (Apple)","Instagram","6500","24","2","","08:00","10:00"
+"2023/09/27 11:06:59 AM GMT+4","iOS (Apple)","TikTok","32000","3041","1","Heavy use","08:00","00:15"
+"2023/09/27 11:07:02 AM GMT+4","iOS (Apple)","Snapchat","56","145","1","Moderate use","05:00","00:30"
+"2023/09/27 11:07:07 AM GMT+4","iOS (Apple)","Snapchat","25.000","99","3 ","Moderate use","08:40","09:30"
+"2023/09/27 11:07:14 AM GMT+4","iOS (Apple)","Instagram","2377","5815","1 ","Heavy use","08:15","20:00"
+"2023/09/27 11:07:24 AM GMT+4","iOS (Apple)","TikTok","15000","22","4","Moderate use","08:00","09:30"
+"2023/09/27 11:07:26 AM GMT+4","iOS (Apple)","TikTok","21453","7000","1","Moderate use","08:40","09:40"
+"2023/09/27 11:07:27 AM GMT+4","iOS (Apple)","Instagram","6800","0","3","Heavy use","09:22","11:00"
+"2023/09/27 11:07:37 AM GMT+4","iOS (Apple)","TikTok","7745","100","3 ","Moderate use","07:50","01:00"
+"2023/09/27 11:07:57 AM GMT+4","iOS (Apple)","Snapchat","2000","7","3","Moderate use","06:50","00:30"
+"2023/09/27 11:08:01 AM GMT+4","iOS (Apple)","TikTok","948","0 ","7","Heavy use","07:00","00:30"
+"2023/09/27 11:08:06 AM GMT+4","iOS (Apple)","TikTok","47610","15719","1 ","Moderate use","08:35","00:15"
+"2023/09/27 11:08:07 AM GMT+4","iOS (Apple)","TikTok","7899","158","1","Light use","06:00","00:40"
+"2023/09/27 11:08:10 AM GMT+4","iOS (Apple)","TikTok","13000","427","4 ","Heavy use","05:00","11:00"
+"2023/09/27 11:08:17 AM GMT+4","iOS (Apple)","Snapchat","1000","2","1 ","Moderate use","06:30","00:20"
+"2023/09/27 11:08:18 AM GMT+4","iOS (Apple)","TikTok","10000","30","2","Heavy use","07:00","00:30"
+"2023/09/27 11:08:23 AM GMT+4","iOS (Apple)","YouTube","3526","5089","1","Moderate use","06:00","00:11"
+"2023/09/27 11:08:26 AM GMT+4","iOS (Apple)","Snapchat","8635","99","2","Moderate use","07:30","00:25"
+"2023/09/27 11:08:46 AM GMT+4","iOS (Apple)","Instagram","3430","0","3.5","Moderate use","09:30","00:30"
+"2023/09/27 11:08:49 AM GMT+4","iOS (Apple)","TikTok","3000","99","3","Moderate use","07:00","00:30"
+"2023/09/27 11:08:54 AM GMT+4","iOS (Apple)","TikTok","38831","6280","3","Heavy use","07:00","08:00"
+"2023/09/27 11:08:56 AM GMT+4","iOS (Apple)","Snapchat","17024","145","4","Heavy use","08:00","00:25"
+"2023/09/27 11:09:08 AM GMT+4","iOS (Apple)","TikTok","7045","114","1","Moderate use","06:30","00:30"
+"2023/09/27 11:09:19 AM GMT+4","iOS (Apple)","TikTok","42332","183","6 ","Heavy use","06:50","00:30"
